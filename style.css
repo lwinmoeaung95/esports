@@ -1,0 +1,365 @@
+		body{
+			margin: 0px;
+			padding: 0px;
+		}
+
+		header{
+			text-transform: uppercase;
+			text-align: center;
+			font-size: 30px;
+			background: black;
+			color: white;
+
+		}
+		.eimg{
+			width: 100%;
+			height: 1000px;
+			position: relative;
+			opacity: 0.6;
+		}
+		nav{
+			
+			background: turquoise;
+			overflow: hidden;
+			height: 25px;
+			
+		}
+		a{
+			text-decoration: none;
+			background: turquoise;
+			color: black;
+			padding: 10px 10px;
+
+			
+		}
+		a:hover{
+			background: black;
+			color: turquoise;
+			border: 2px solid turquoise;
+		}
+		footer{
+			
+			background: turquoise;
+			font-size: 20px;
+			color: black;
+			text-align: right;
+
+		}
+		
+		.d2png{
+			width: 350px;
+			position: absolute;
+			top: 250px;
+			left: 65px;
+
+		}
+		
+		
+		.pd2{
+			width: 330px;
+			position: absolute;
+			top: 450px;
+			left: 70px;
+			border: 3px solid turquoise;
+			border-radius: 10px;
+			text-align: justify;
+			padding: 10px;
+			font-size: 15px;
+		
+
+		}
+		.cspng{
+			width: 350px;
+			position: absolute;
+			top: 250px;
+			left: 600px;
+		}
+		.pcs{
+			width: 330px;
+			position: absolute;
+			top: 470px;
+			left: 600px;
+			border: 3px solid turquoise;
+			border-radius: 10px;
+			text-align: justify;
+			padding: 10px;
+			font-size: 15px;
+
+		}
+		.lpng{
+			width: 250px;
+			position: absolute;
+			top: 200px;
+			right: 160px;
+		}
+		.pl{
+			width: 330px;
+			position: absolute;
+			top: 470px;
+			right: 100px;
+			border: 3px solid turquoise;
+			border-radius: 10px;
+			text-align: justify;
+			padding: 10px;
+			font-size: 15px;
+
+		}
+		.fnpng{
+			width: 250px;
+			position: absolute;
+			top: 600px;
+			left: 400px;
+
+		}
+		.pfn{
+			width: 330px;
+			position: absolute;
+			top: 700px;
+			left: 350px;
+			border: 3px solid turquoise;
+			text-align: justify;
+			padding: 10px;
+			font-size: 15px;
+
+		}
+		.owpng{
+			width: 250px;
+			position: absolute;
+			top: 560px;
+			left: 900px;
+
+		}
+		.pow{
+			width: 330px;
+			position: absolute;
+			top: 700px;
+			left: 850px;
+			border: 3px solid turquoise;
+			text-align: justify;
+			padding: 10px;
+			font-size: 15px;
+
+		}
+		/*.col{
+			background: palegoldenrod;
+
+			width: 17%;
+			box-shadow: 1px 1px 1px 1px;
+			margin: 11px;
+			padding: 10px;
+			float: left;
+		}
+		.row::after{
+			content: "";
+			clear: both;
+			display: table;
+		}*/
+		.cover{
+			width: 300px;
+			height: 200px;
+			top: 100px;
+			left: 10px;
+			padding: 10px;
+		}
+		
+		.info{
+			border: 1px solid turquoise;
+			width: 300px;
+			height: 600px;
+			font-size: 13px;
+			padding: 10px;
+			margin: 10px;
+		}
+		.icover{
+			width: 300px;
+			height: 200px;
+			padding: 0px;
+
+		}
+		.imap{
+			width: 600px;
+			height: 500px;
+			top: 100px;
+			right: 30px;
+			position: absolute;
+		}
+		.map{
+			top: 100px;
+			width: 500px;
+			left: 350px;
+			position: absolute;
+			
+		}
+		.pmap{
+			text-align: justify;
+			text-indent: 10px;
+			line-height: 25px;
+		}
+		.lane{
+			top: 300px;
+			width: 500px;
+			left: 350px;
+			position: absolute;
+			
+		}
+		.plane{
+			text-align: justify;
+			text-indent: 10px;
+			line-height: 25px;
+		}
+		.river{
+			top: 560px;
+			width: 500px;
+			left: 350px;
+			position: absolute;
+			
+		}
+		.priver{
+			text-align: justify;
+			text-indent: 10px;
+			line-height: 25px;
+		}
+		.runes{
+			padding: 10px;
+			line-height: 25px;
+		}
+		.prunes{
+			text-indent: 10px;
+		}
+		
+
+		.csinfo{
+			border: 1px solid turquoise;
+			width: 300px;
+			height: 700px;
+			font-size: 13px;
+			padding: 10px;
+			margin: 10px;
+		}
+		.cscover{
+			width: 250px;
+			height: 300px;
+			padding: 0px;
+		}
+		.csabout{
+			width: 900px;
+			left: 350px;
+			position: 	absolute	;
+			top: 	60px;}
+		
+		.cspabout{
+			text-indent: 20px;
+			line-height: 25px;
+			text-align: justify;
+		}	
+		.csgp{
+			width: 900px;
+			left: 350px;
+			position: absolute;
+			top: 250px;
+		}
+		.cspgp{
+			text-indent: 20px;
+			line-height: 25px;
+			text-align: justify;
+
+		}
+		.csgm{
+			padding: 10px;
+		}
+		.csom{
+			padding: 10px;
+		}
+		.cspom{
+			text-indent: 20px;
+		}
+		.csvdo{
+			width: 500px;
+			height: 300px;
+			top: 470px;
+			left: 350px;
+			position: absolute;
+		}
+		.lolcover{
+			width: 250px;
+			height: 100px;
+		}
+		.lolinfo{
+			border: 1px solid turquoise;
+			width: 300px;
+			height: 400px;
+			font-size: 13px;
+			padding: 10px;
+			margin: 10px;}
+
+		.ilolmap{
+			width: 500px;
+			height: 400px;
+			right: 50px;
+			top: 70px;
+			position: absolute;
+		}	
+		.lolmap{
+			top: 70px;
+			left: 340px;
+			width: 600px;
+			position: absolute;
+			text-align: justify;
+		}
+		.lolgp{
+			position: absolute;
+			width: 500px;
+			height: 800px;
+			position: absolute;
+			right: 40px;
+			top: 470px;
+			border: 1px solid turquoise;
+			margin: 1px;
+			padding: 5px;
+			overflow: hidden;
+			line-height: 20px;
+			text-indent: 15px;
+		}
+		input{
+			width: 100%;
+			height: 25px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			
+			border: 1px solid turquoise;}
+
+		button{
+			width: 70px;
+			height: 30px;
+			
+			background: turquoise;
+			border: 1px solid turquoise;
+		}	
+		textarea{
+			width: 100%;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			border: 1px solid turquoise;
+			
+		}
+		form{
+			margin: 20px;
+		}
+		.row::after{
+			content: "";
+			clear: both;
+			display: table;}
+
+		.col{
+			background: turquoise;
+
+			width: 17%;
+			box-shadow: 1px 1px 1px 1px;
+			margin: 11px;
+			padding: 10px;
+			float: left;}
+		.abimg{
+			width: 100%;
+			height: 150px;
+		}
+		
